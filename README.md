@@ -1,5 +1,4 @@
 # uxr-screener-builder
-# Screener Builder — a Claude skill for research recruitment
 
 Paste your recruitment criteria, get a complete, programmer-ready screener: 15 questions max, 11 markets, local languages.
 
