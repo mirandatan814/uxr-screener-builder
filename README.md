@@ -81,8 +81,8 @@ Then just ask: *"Draft a screener for…"* followed by your criteria.
 
 Created by **Miranda Tan**, UX researcher with experience across agency and in-house research in North America and Asia.
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) · Feedback and suggestions are welcome — please open an issue.
+[LinkedIn](https://www.linkedin.com/in/mirandatanuxr/) · Feedback and suggestions are welcome — please open an issue.
 
-## License
+
 
 [MIT](./LICENSE)
